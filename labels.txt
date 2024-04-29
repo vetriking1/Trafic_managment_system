@@ -1,0 +1,2 @@
+0 Emergency
+1 Not Emergency
